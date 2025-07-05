@@ -5,6 +5,7 @@ The seeds are given at later time.
 
 - Version v1.1: Fix a small logic of `start_time` should less than `dead_line`
 - final version multi-agents: https://www.kaggle.com/code/trngthnhnh/multiagents
+- paper: https://drive.google.com/file/d/1cyJpYxdh3jFAzsjPAAY25RKYdTbkAaPD/view?usp=sharing
 
 # Testing scripts
 ```python main.py --seed 10 --max_time_steps 1000 --map map1.txt --num_agents 5 --n_packages 100```
